@@ -1,0 +1,41 @@
+/* Apply background color to the page */
+body {
+    background-color: #f0e68c;
+}
+
+/* Style the main heading */
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+/* Style the navigation table */
+table {
+    width: 100%;
+    background-color: #e0e0e0;
+}
+
+/* Style the table cells */
+td {
+    padding: 10px;
+}
+
+/* Style the navigation links within the table */
+table a {
+    color: brown;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+/* Style the section headings */
+h2 {
+    text-align: center;
+    color: darkred;
+}
+
+/* Style the paragraph text */
+p {
+    font-family: Arial;
+    font-size: 16px;
+    text-align: justify;
+}
