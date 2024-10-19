@@ -1,0 +1,30 @@
+/* Set background color for the page */
+.external-style-body {
+    background-color: #f0e68c;
+}
+
+/* Style for the main heading */
+.external-h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+/* Style for the navigation table */
+.external-nav-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #e0e0e0;
+}
+
+/* Style for the navigation td element */
+.external-nav-td {
+    padding: 10px;
+}
+
+/* Style for the navigation anchor element */
+.external-nav-a {
+    color: brown;
+    font-size: 20px;
+    text-decoration: none;
+}
